@@ -5,6 +5,11 @@ TNT (TNT is NOT TTYTTTER) is a wrapper for python-twitter
 TTY is a TNT client for *nix console.
     Usage "python tty.py" in a console
 
+FEATURES:
+    - A simple terminal client or an ncurses one
+    - Threading complete conversations mutt style
+    - Vim type commands for the not-ncurses version
+
 Dependencies:
     python >= 2.5
     python-simplejson 
